@@ -293,8 +293,8 @@ body {
 }
 .social-list-item {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
   background-color: #a8b8c6;
   /* background-color: var(--background-section); */
