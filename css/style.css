@@ -453,29 +453,3 @@ h3 {
   line-height: 1.88;
   color: var(--light-grey-color);
 }
-
-/* TODO features */
-
-/* .main-features li:before {
-  display: inline-block;
-  width: 270px;
-  height: 120px;
-  content: "";
-  background-color: var(--background-team);
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.main-features li:first-child::before {
-  background-image: url(../images/sprite.svg#facebook-icon);
-}
-.main-features li:nth-child(2)::before {
-  background-image: url(../images/clock.png);
-}
-.main-features li:nth-child(3)::before {
-  background-image: url(../images/diagram.png);
-}
-.main-features li:last-child::before {
-  background-image: url(../images/astronaut.png);
-} */
